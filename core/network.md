@@ -7,7 +7,7 @@ Tendermint network must be able to communicate with each other via Tendermint's
 peer-to-peer layer. Additionally, each node provides an RPC interface
 which clients use to submit transactions and query the state of the chain.
 
-```mermaind
+```mermaid
 flowchart TD
     subgraph BVC0
     direction LR
